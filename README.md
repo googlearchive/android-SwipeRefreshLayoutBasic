@@ -8,8 +8,8 @@ In this sample the View which can be refreshed is a ListView.
 Pre-requisites
 --------------
 
-- Android SDK v21
-- Android Build Tools v21.1.2
+- Android SDK v22
+- Android Build Tools v22.0.1
 - Android Support Repository
 
 Getting Started
